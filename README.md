@@ -5,7 +5,7 @@
 </p>
 
 <table>
-
+<tr>
 
 <td valign="top" width="45%">
 
@@ -62,7 +62,7 @@ Git/
 </pre>
 
 </td>
-<tr>
+
 
 <td valign="top" width="55%">
 
