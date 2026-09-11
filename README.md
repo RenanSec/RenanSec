@@ -1,16 +1,15 @@
-<h1 align="center">Hi, I'm Renan 👋</h1>
+<h1 align="center">Hi, I'm Renan</h1>
 
 <p align="center">
   <b>Cybersecurity Student | DFIR | Incident Response | Blue Team</b>
 </p>
 
-<p align="center">
-  Building, breaking, investigating and learning.
-</p>
+<table>
+<tr>
 
----
+<td valign="top" width="45%">
 
-```bash
+<pre>
 ┌──(renan㉿RenanSec)-[~]
 └─$ whoami
 
@@ -18,9 +17,9 @@ José Renan dos Santos Lima
 Cybersecurity Student
 IT Professional
 Technology Instructor
-```
+</pre>
 
-```bash
+<pre>
 ┌──(renan㉿RenanSec)-[~]
 └─$ cat focus.txt
 
@@ -28,11 +27,10 @@ Technology Instructor
 [+] Incident Response
 [+] Blue Team
 [+] OSINT
-[+] Log Analysis
 [+] Digital Forensics
-```
+</pre>
 
-```bash
+<pre>
 ┌──(renan㉿RenanSec)-[~]
 └─$ ls skills/
 
@@ -43,66 +41,59 @@ Networking/
 Windows/
 Active_Directory/
 Git/
-```
+</pre>
 
-```bash
-┌──(renan㉿RenanSec)-[~]
-└─$ cat currently_learning.log
-
-> Incident Response
-> Digital Forensics
-> Windows Event Logs
-> Security Operations
-> Python for Cybersecurity
-```
-
-```bash
+<pre>
 ┌──(renan㉿RenanSec)-[~]
 └─$ cat status.log
 
 [+] Studying Cybersecurity
 [+] Building practical projects
 [+] Improving DFIR skills
-[+] Documenting my learning
-[+] Looking for opportunities in Cybersecurity
-```
+[+] Looking for opportunities
+</pre>
 
----
+</td>
 
-## Projects
+<td valign="top" width="55%">
 
-### Windows Event Log Parser
+<pre>
+                   +@#####################:
+               -mM@########################M.
+              :##############################+
+              m###############################@m.
+             .@#######@mmmmMMM@@@@@@MMM@@######@-
+              m####@Mm::------:::::------m######.
+              .@##Mm+++:::---------.......:M####.
+               +#@m++++::-------...........:@#+-
+                @@m+++:::--------..........-M#
+                +m++++mmm+++++::+:::++m+::--m+
+                -+m@@@@@####@Mm+mM@##@@Mmm+::-
+               .:+mM@########M+::M@####MMm+:-:
+                ++mM@@#@##@@M+:--:+M@@MMm+-.--
+                +++++mmmMmmm++:--..--::--....-
+                :+++++::::mmm+:--------.....-.
+                 :+++::::+mmMMm+++:::---...--
+                 .+++++++:+M@@Mm+m:---------.
+                  -+m++++:mMMmmm::---.------
+                   :mmmmmMMmMMm++++:++:----
+                    +mmmMM@@MMmMm++++m+:::.
+                    MmmmmmmmMMMMMm+++++++m@-
+                  -m#MmmmmMMMMm+++:::+++:m#M-.
+             .:m@@###@mmMmmmmmmm+::::+::-m##@@M+-.
+         --:m@#######@Mm+mmmMMMMMm+:::::-m##@MM@@@M+-
+       .+M@##########MMm+++mmmmm+:::::--:m##@@@@@####@+.
+     .+M@############-Mm+++++++++::::--:+:m#@@@@@#####@#M+:-.
+   .+@@@@@##########@ :Mmm++::+::::::::+- m#@@@@###########M-
+ -+@@@@@@@@#########-  -mmm++:::::::+++-  -@@@@##########M:
+.:+mM@@@@@@@@@####@:    -m++:::::::++:.    +@@@#######@M-
+     .-++mM@@@@@@@:      .+::-------:.      m@@@@###m.
+           :mmm++.        .m+:----:+.        ::+mm+m:
+           .::--           -MMm++m+.
+                            +m+mm+.
+                            .++m+.
+</pre>
 
-Python project focused on reading and analyzing Windows event logs.
-
-```text
-Events → Python Parser → Analysis → CSV → Dashboard
-```
-
-Focus:
-
-- Authentication events
-- Failed logons
-- Security events
-- Service installation
-- Log analysis
-- Data export
-
----
-
-## Technologies
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,linux,windows,git,github,vscode" />
-
-</p>
-
----
-
-```bash
-┌──(renan㉿RenanSec)-[~]
-└─$ echo "Always learning. Always investigating."
-
-Always learning. Always investigating.
-```
+</td>
+</tr>
+</table>
