@@ -7,56 +7,70 @@
 <table>
 <tr>
 
-<td valign="top">
+<td valign="top" width="55%">
 
 <pre>
-m#############################################@+.
-@##########@MmmmmMMM@@@#######@@@@@@###########+
-@########@m++:----::::++++++++::::::+M########@:
-+######Mm++::::-----------------.....-+@#######+
- m###@m++++++::::------------.-........-m######+
- .###M+++++++::-----------..............-M##@M+-
- .M#@m++++++::----...----.........-......+@#:
-  :#Mm++++::::::::-----------....   .....:M#+
-  .Mm+++:::++++++++++::::+:::::++++:::--.-MM-
-   +m+mM@@@######@@@Mmm++mmMM@@###@@MMm++-++
-   -++MMMMM@@@@#####@Mm+++m@####@@Mm++++:-:+.
-  ++++mM@############M+:-:mM@#####@MMmmm:--:.
-  -++mmM@###@#####@@M+:---:+m@@@@@MMMm+:----
-  .++++mmmMMMM@@@Mm+++:---..-++mmmm+:--...-:-
-  -m+++:++++++mm++m+++:-----..--:::--.....--.
-  .++++:++::::::+mmm+::--.----------......--
-   .+++++:::::::+m+mMm+:-::--::-----.....--.
-    .+++++::+++:+mM@@MMm+m@M+:::-----------
-     -+++++++++::+m@@@MMm+++:-------------.
-     .++++++++:::mmmMmmMM:::----.-------:.
-      -+mmm+++++mmmmm+++::---------------
-       :mmmmmmmMMMMMMMMMmmmmmm+mm+:---::
-        :+mmmmmMM@@MMmmmm++:++++m++::::.
-        -Mmmmmmmmmmmmmmmmmm++::::+++++MM-
-        @@mmmmmmmmmmMMMMMMmm+++++++++:@#@.
-     -+@##Mmmmmmmmmmmmm+++::---::++:::@##m--.
-.:m@@#####@mmmMmmmmmm+++++::--::+::::-@###@@@M:-.
-##########@mm+mmmmmmmmmmmmmm++::::::--M###@MMM@MMm:.
-##########@Mm+++mmmmMMMMMmm++::::::--:M###@@MM@@@###M+
-#########@@Mmm++++mmmmm+++::::::::---+M###@@@@@@@#####
+        @@############################
+        ################################
+    ####################################
+  ########################################
+  ##########################################
+  ##############@@############################
+  ##########mm::++mmmmMM@@@@MMmmmmMM##########
+  ########mm::--------::::::::------mm########
+  ######++++::::::------------........MM######
+  ####mm++++++::--------..--..........--######
+    ##mm++++::----------................@@##
+    ##++++++::::----------..............mm
+    @@++::::::::::::::::::::------......mm
+    MM++MM@@####@@mmmm++++mm@@######MM::::
+    MMmmMMMMMM@@####@@mm++MM@@##MMmm::::--
+    mmmmMM@@########@@::::MM########mm++----
+    ++mm@@##@@####@@mm::--mmMM@@##MMmm----
+    ++mmmmMM@@@@MMmm++::--..::mmmm++--....::
+    ++++++++++mm++mm++------..--::--......--
+    ++++++::::::++mm++----------........--
+    ::++++::::::++mmmm++::----------....--
+      ++++::++++++MM##MMmm@@::::--------::
+      ++++++++++::mmMMMM++++..----------
+        mm++++::::mmMMmm++::----..------
+        mmmmmm++mmmmmm++++::--::--------
+        ++mmmmmmMM@@@@MMmmMMMM@@++::--
+          mmmmMMmmMM++++++::::--++::::
+          mmmmmmmmmmmm@@MMmm++++++++++##
+        ##mmmmmmMMmmMMmm++++::::++++::##
+      ####MMmmMMmmmmmm++++----::++::::##@@@@
+::##########mmmmmmmmmmmmmm++::++::--::##@@@@MMMM
+##############mm++mmmmmmmmMMmm::::::::++##@@MM@@@@##--
+############mmmm++++mmmmmm++::::::::--mm##@@@@@@@@######
+################..mm++++++mm++++::::::--::mm##@@@@@@########@@
+@@@@@@@@##############  @@mm++++::::::::::::::++  ##@@@@@@################
+@@@@@@@@@@@@############    mmmm++::::++::::::++    MM@@@@################
+@@@@@@@@@@@@@@@@######@@      MM++++::::::::++++::      @@@@############@@
+  mm##@@@@@@@@@@####@@        ++::::--::::::::        @@@@@@######@@::
+        ::++@@####@@@@          ::::::--------::        ++@@@@######
+              MMmmmmmm            MM::------++            MM++mmmmmm
+              ++++::              MMMM::--mm::                ::----
+              --....                MMmm++MM                      ..
+                                    MM++++::                      ..
+                                    ++++mm                        ..
 </pre>
 
 </td>
 
-<td valign="top">
+<td valign="top" width="45%">
 
 <pre>
 ┌──(renan㉿RenanSec)-[~]
 └─$ whoami
 
 José Renan dos Santos Lima
+
 Cybersecurity Student
 IT Professional
 Technology Instructor
-</pre>
 
-<pre>
+
 ┌──(renan㉿RenanSec)-[~]
 └─$ cat focus.txt
 
@@ -65,9 +79,8 @@ Technology Instructor
 [+] Blue Team
 [+] OSINT
 [+] Digital Forensics
-</pre>
 
-<pre>
+
 ┌──(renan㉿RenanSec)-[~]
 └─$ ls skills/
 
@@ -78,13 +91,21 @@ Networking/
 Windows/
 Active_Directory/
 Git/
-</pre>
 
-<pre>
+
+┌──(renan㉿RenanSec)-[~]
+└─$ cat learning.log
+
+> Incident Response
+> Windows Event Logs
+> Digital Forensics
+> Security Operations
+> Python for Cybersecurity
+
+
 ┌──(renan㉿RenanSec)-[~]
 └─$ cat status.log
 
-[+] Studying Cybersecurity
 [+] Building practical projects
 [+] Improving DFIR skills
 [+] Documenting my learning
@@ -95,3 +116,57 @@ Git/
 
 </tr>
 </table>
+
+---
+
+<h2>Projects</h2>
+
+<h3>Windows Event Log Parser</h3>
+
+<p>
+Python project focused on reading, analyzing and exporting Windows security events.
+</p>
+
+<pre>
+Windows Event Logs
+        │
+        ▼
+   Python Parser
+        │
+        ▼
+  Event Analysis
+        │
+        ▼
+      CSV
+        │
+        ▼
+    Dashboard
+</pre>
+
+<b>Focus:</b>
+
+<ul>
+  <li>Authentication events</li>
+  <li>Failed logons</li>
+  <li>Security events</li>
+  <li>Service installation</li>
+  <li>Log analysis</li>
+  <li>Data export</li>
+</ul>
+
+---
+
+<h2>Technologies</h2>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,linux,windows,git,github,vscode" />
+</p>
+
+---
+
+<pre>
+┌──(renan㉿RenanSec)-[~/cybersecurity]
+└─$ echo "Always learning. Always investigating."
+
+Always learning. Always investigating.
+</pre>
